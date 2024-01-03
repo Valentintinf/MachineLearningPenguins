@@ -1,0 +1,35 @@
+Deux projets vous sont proposées:
+
+Estimation du prix d'une habitation via une régression. Dataset: https://www.kaggle.com/datasets/shivachandel/kc-house-data
+Classification des espèces de Penguins. Dataset: https://www.kaggle.com/code/zeynepakda/pinguins
+Voux devez choisir un ses deux projets.
+
+Une fois se projet choisi vous devez mettre en place toutes les étapes nécessaires à la réalisation de l'objectif, à savoir :
+
+Mettre en place un model de machine learning
+
+Être capable de faire une prédiction.
+
+Estimer la fiabilité de cette prédiction
+
+Pour ce faire, vous devrez concevoir les étapes de préprocessing nécessaire, tel que :
+
+Le cleaning
+
+La scalabilité des données numériques
+
+L'encodage des données catégoriques
+
+Toutes autres transformations qui vous sembleront pertinentes
+
+Rappeler vous que
+
+la selection des features
+
+le préprocessing
+
+le choix du model
+
+le paramétrage du model
+
+ont un impact sur la précision et la fiabilité de votre résultat. La bonne réalisation de brief passera donc par un processus itératif afin d'afiner au fur et a mesure vos résultats
